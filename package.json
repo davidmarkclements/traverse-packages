@@ -9,5 +9,14 @@
   "license": "MIT",
   "directories": {
     "test": "test"
-  }
+  },
+  "description": "Deep remote traversal over npm packages",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidmarkclements/traverse-packages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidmarkclements/traverse-packages/issues"
+  },
+  "homepage": "https://github.com/davidmarkclements/traverse-packages"
 }
